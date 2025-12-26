@@ -6,7 +6,7 @@
 Agent 工作流：Planner → Generator → Reviewer
 
 ## Demo
-- Streamlit App：<把你的 Streamlit Cloud 連結貼在這裡>
+- Streamlit App：https://5114050004dl-lusyecapxw7kxm4yrq8jas.streamlit.app/
 
 ## 功能
 - 輸入冰箱食材、份量、人數、時間、忌口、器具
